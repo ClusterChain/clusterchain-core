@@ -43,7 +43,7 @@ public class Keccak512 extends KeccakCore {
    */
   public Keccak512()
   {
-    super("eth-keccak-512");
+    super("clusterchain-keccak-512");
   }
 
   /** @see Digest */

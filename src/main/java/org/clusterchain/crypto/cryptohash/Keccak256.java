@@ -43,7 +43,7 @@ public class Keccak256 extends KeccakCore {
    */
   public Keccak256()
   {
-    super("eth-keccak-256");
+    super("clusterchain-keccak-256");
   }
 
 
